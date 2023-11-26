@@ -252,7 +252,7 @@ select {
 }
 
 .service__desc {
-    margin-left: auto;
+    margin:0 auto;
     width: 468px;
     color: #575F66;
     text-align: center;
